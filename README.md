@@ -16,6 +16,7 @@ Student @ Bannari Amman Institute of Technology
 - I'm currently learning DSA and OOPs
 - I'm looking for help with placement in frontend
 - My projects are available at [here](https://github.com/Vinu-AD)
+- I know type writing
 
 ---
 
