@@ -13,7 +13,7 @@
 
 Student @ Bannari Amman Institute of Technology
 - Interested in frontend development
-- Currently learning Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP)
+- Currently learning Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOPs)
 - I'm looking for help with placement in frontend
 - Check out my [GitHub projects](https://github.com/Vinu-AD), including UI designs, interactive web pages, and problem-solving scripts.
 - Proficient in touch typing for efficient coding
