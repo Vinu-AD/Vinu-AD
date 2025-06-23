@@ -1,6 +1,6 @@
 <div align= "center">
   <h1>Hi👋, I'm Vinu</h1>
-  <h6>Aspiring Frontend Developer</h6>
+  <h6>Aspiring Java Fullstack Developer</h6>
   
   [![Email Me 📧](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinu882368@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinu-vinu/)
@@ -11,29 +11,30 @@
 
 --- 
 
-Student @ Bannari Amman Institute of Technology
-- Interested in frontend development
-- Currently learning Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOPs)
-- I'm looking for help with placement in frontend
+## 👨‍🎓 About Me
+- Interested in Java Fullstack development
+- Currently pursuing training at Uniq Technologies - Chennai
+- I'm looking for help with placement in frontend/backend/fullstack
 - Check out my [GitHub projects](https://github.com/Vinu-AD), including UI designs, interactive web pages, and problem-solving scripts.
 - Proficient in touch typing for efficient coding
 
 ---
 
 ## Language and Tools:
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java">
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C">
-  <img src="https://img.icons8.com/fluency/50/python.png" alt="Python" title="Python">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5">
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3">
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript">
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL">
-  <img src="https://img.icons8.com/color/48/apache-netbeans.png" alt="Apache Netbeans" title="Apache Netbeans">
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git">
-  <img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="Github" title="Github">
-  <img src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code">
-  <img src="https://img.icons8.com/color/48/typewriter-with-tablet.png" alt="Type Writing" title="Type Writing">
+<div>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/50/python.png" alt="Python" title="Python">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="Github" title="Github">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/apache-netbeans.png" alt="Apache Netbeans" title="Apache Netbeans">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=000000" alt="Eclipse" title="Eclipse">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/typewriter-with-tablet.png" alt="Type Writing" title="Type Writing">&nbsp;&nbsp;
 </div>
 
 --- 
