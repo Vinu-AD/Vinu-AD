@@ -33,7 +33,7 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git">&nbsp;&nbsp;
   <img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="Github" title="Github">&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/apache-netbeans.png" alt="Apache Netbeans" title="Apache Netbeans">&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=000000" alt="Eclipse" title="Eclipse">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=ffffff" alt="Eclipse" title="Eclipse">&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/typewriter-with-tablet.png" alt="Type Writing" title="Type Writing">&nbsp;&nbsp;
 </div>
 
