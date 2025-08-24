@@ -1,6 +1,6 @@
 <div align= "center">
   <h1>Hi👋, I'm Vinu</h1>
-  <h6>Aspiring Java Fullstack Developer</h6>
+  <h6>Aspiring Java Developer</h6>
   
   [![Email Me 📧](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinu882368@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinu-vinu/)
@@ -12,7 +12,7 @@
 --- 
 
 ## 👨‍🎓 About Me
-- Interested in Java Fullstack development
+- Interested in Java development
 - Currently pursuing training at Uniq Technologies - Chennai
 - I'm looking for help with placement in frontend/backend/fullstack
 - Check out my [GitHub projects](https://github.com/Vinu-AD), including UI designs, interactive web pages, and problem-solving scripts.
@@ -32,8 +32,8 @@
   <img src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code">&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git">&nbsp;&nbsp;
   <img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="Github" title="Github">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ" title="IntelliJ">&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/apache-netbeans.png" alt="Apache Netbeans" title="Apache Netbeans">&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=ffffff" alt="Eclipse" title="Eclipse">&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/typewriter-with-tablet.png" alt="Type Writing" title="Type Writing">&nbsp;&nbsp;
 </div>
 
